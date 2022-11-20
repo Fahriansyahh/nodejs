@@ -1,0 +1,19 @@
+{
+  "name": "coba",
+  "version": "1.0.0",
+  "description": "fahri bae",
+  "main": "coba1.js",
+  "scripts": {
+    "start": "node coba1",
+    "liat": "ls",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fahrian"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.5.2"
+  }
+}

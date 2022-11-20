@@ -1,0 +1,17 @@
+{
+  "name": "node_install_npm",
+  "version": "1.0.0",
+  "description": "Belajar node Js",
+  "main": "coba.js",
+  "scripts": {
+    "start": "node coba.js",
+    "liat": "ls",
+    "dev": "touch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fahri",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.5.2"
+  }
+}

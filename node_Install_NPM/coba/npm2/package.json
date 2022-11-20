@@ -1,0 +1,22 @@
+{
+  "name": "npm2",
+  "version": "1.0.0",
+  "description": "npm2",
+  "main": "npm2.js",
+  "scripts": {
+    "jalan": "nodemon",
+    "start": "node npm2",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fahriansyah"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.5.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}

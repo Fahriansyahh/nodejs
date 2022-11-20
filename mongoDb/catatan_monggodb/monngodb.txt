@@ -1,0 +1,27 @@
+monngo db adalah sebuah database yang berbasis nosql 
+
+setiap database mempunyai colection sedangkan di sql disebut table
+
+
+cara pemakaian monngo db
+cara pemakaian monngo db terbagi menjadi dua macam
+
+1.download secara local 
+2.mengunakan atlas dari monngo db
+
+alat untuk menjalankan monngo db 
+
+1.mengunakan sheel
+2. mengunakan GUI (graph user interface) salah satu yang kita gunakan yaitu compas
+
+syntax mengunakan shell
+
+show dbs = untuk melihat database yang ada
+show collections = untuk melihat colections yang ada
+
+use = untuk membuat nama database
+
+db.createCollection('namanya mau apa') = untuk membuat colection yang ada di dalam database
+
+db."colection".insertOne({isi data json}) =untuk membuat isi hanya satu baris
+db."colection".insertMany({isi data json},{isi data json},{isi data json}{isi data json}{isi data json}) =untuk membuat isi lebih dari satu baris
